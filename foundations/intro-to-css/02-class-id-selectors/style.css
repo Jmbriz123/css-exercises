@@ -1,0 +1,15 @@
+#only_ID{
+    color: rgb(0, 4, 255);
+    font-size: 36px;
+}
+.odd{
+    background-color: hsla(330, 100%, 50%, 0.507);
+}
+.third_element{
+    font-size: 24px;
+}
+.fourth_element{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
